@@ -1,4 +1,3 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
 
 import mysql.connector
 global cnx
@@ -6,7 +5,7 @@ global cnx
 cnx = mysql.connector.connect(
     host="localhost",
     user="sp1409-sample",
-    password="Sanju989$",
+    password="*********",
     database="pandeyji_eatery"
 )
 
